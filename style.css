@@ -1,0 +1,281 @@
+body{
+    background-color: white;
+    margin: 0%;
+    /* display:inline-block; */
+}
+
+    /*navbar*/
+img{
+    width: 120px;
+}
+
+header{
+    background-color: #F0FFF0;
+}
+* .navbar-section{
+    
+    /* width: 1263px; */
+    height: 500px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #F0FFF0;
+} */
+
+/*Carousel_section*/
+
+.Carousel_section{
+    margin-top: 50px;
+    
+    
+ }
+
+h6{
+    color: #FD511A;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+.footer_text{
+    color: #FFFFFF;
+    text-align: center;
+}
+.footer_section p{
+    color: #FFFFFF;
+}
+
+span{
+    color: #21B573;
+}
+
+
+/*button section*/
+
+.button_in_carousel{
+    border: none;
+    padding: 5px 25px;
+    border-radius: 30px;
+    background-color: #21B573;
+    color: white;
+}
+
+
+.photo img{
+    
+    width: 20px;
+    height: 18;
+
+   
+}
+
+.footer-photo img{
+   width: 20px;
+   height: 18;
+
+   margin-right: 5px;
+   
+}
+.footer-photo{
+    width: 50%;
+    height: 5%;
+    
+    
+}
+.text-footer{
+    margin-top: 20px;
+}
+
+
+/* testimonial */
+
+.tastimonial{
+    width: auto;
+}
+
+.manimages img{
+    width: 120px;
+    margin-top:25px ;
+    margin-left: 160px;
+}
+.common:hover{
+    background-color: rgb(34, 87, 34);
+    box-shadow: 20px 20px 15px dimgrey;
+    transition: 0.2s;
+}
+.paragraph p{
+    margin-top: 40px;
+   text-align: justify;
+   margin-right: 20px;
+   margin-left: 0px;
+}
+
+
+.images img{
+    width: 70px;
+
+}
+
+.images{
+    padding-top: 30px;
+}
+h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 22px;
+    
+}
+
+p{
+    text-align:center;
+    padding-bottom: 5px;
+    color:black;
+    
+    
+}
+/*2nd section*/
+.card, .col{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    margin: 20px 20px;
+}
+
+.col:hover, .card:hover{
+    box-shadow: 20px 20px 15px dimgrey;
+    transition: 0.2s;
+}
+.btn-round:hover{
+
+    background-color:cyan;
+    transition: 0.2s;
+   
+
+}
+.card-text{
+    color: black !important;
+}
+
+.icon{
+
+    margin-top: 15px;
+    margin-left: 4px;
+    margin-right: 55px;
+
+}
+
+/*courses section*/
+*
+.online-courses{
+    text-align: center;
+}
+
+
+.photo{
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    
+
+}
+
+.photo img{
+    
+    width: 20px;
+    height: 18;
+    margin-bottom: 20px;
+   
+}
+
+/* testimonial */
+
+.tastimonial{
+    width: auto;
+}
+
+.manimages img{
+    width: 120px;
+    margin-top:25px ;
+    margin-left: 160px;
+
+}
+.paragraph p{
+    margin-top: 40px;
+   text-align: justify;
+   margin-right: 20px;
+   margin-left: 0px;
+   color:rgb(10, 10, 73)
+}
+/*centerise-content-&-Colum*/
+
+
+.centerise{
+    text-align: center;
+
+    
+}
+.col{
+  
+    text-align: center;
+    height: 270px;
+    padding-top: 52px;
+}
+.card-body p{
+    text-align: left !important;
+}
+
+    /*last section*/
+.last-section{
+    
+    background-color: black;
+   margin-bottom: 0 !important;
+   margin-top: 30px;
+   
+
+}
+
+.link{
+    padding: 60px;
+}
+
+/*footer-design*/
+footer{
+    text-align:justify;
+    color: whitesmoke;
+}
+
+p{
+    color:white;
+}
+.banner_p{
+    color:rgb(44, 7, 68);
+    text-align: left;
+}
+.about_size{
+    font-size: 38px;
+    color:red;
+}
+.about_color{
+    color: green;
+    margin-top: 0px;
+}
+.para_sizing{
+    text-align: justify;
+    color:rgb(4, 4, 71)
+}
+.testimonial{
+    color:black;
+    margin-top: 30px;
+}
+.footer_text{
+    margin-top: 30px;
+}
+.custom_email{
+    margin-bottom: 53px;
+    margin-left: 50px;
+}
+.copy_text{
+    margin-top: 30px;
+}
